@@ -16,7 +16,7 @@ The data used in this project was sourced from Kaggle, it can be viewed [here](h
 
 ## Tableau Dashboard
 
-The tableau dashboard can be viewed [https://public.tableau.com/app/profile/scott.duong8287/viz/Spotify2023Final_17057375887560/Dashboard1#2](https://public.tableau.com/app/profile/scott.duong8287/viz/Spotify2023Final_17057375887560/Dashboard1#)
+The tableau dashboard can be viewed [here](https://public.tableau.com/app/profile/scott.duong8287/viz/Spotify2023Final_17057375887560/Dashboard1#), the dashboard 
 
 
 
@@ -25,7 +25,4 @@ The tableau dashboard can be viewed [https://public.tableau.com/app/profile/scot
 
 ### Insights Gathered 
 
-* Mumbai generates the highest revenue, which is followed by Bangalore, Hyderabad, and Delhi
-* Atliq Seasons is probably proportionally worse than all other hotels.
-* Elite room types contribute the most to the revenue, and possess the 2nd highest occupancy rate.
-* Other platforms contribute to the majority of the bookings at the hotels and should be investigated.
+
